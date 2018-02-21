@@ -2,8 +2,14 @@
 
 Pour lancer le bot, rien de plus simple:
 - Ouvrir une invite de commande dans le répertoire du jar
-- Taper java -jar hihihi.jar
+- Taper java -jar hihihi.jar {messages_delay} {hi_delay} {input_x} {input_y}
 - Enjoy ;)
+
+Par défaut, mettre les valeurs suivantes:
+- {messages_delay} : 10000
+- {hi_delay} : 500
+- {input_x} : 600
+- {input_y} : 980
 
 Attention, il utilise alt+tab pour que tout se déroule bien.
 
